@@ -1,5 +1,4 @@
 import { useState } from "react";
-import './LetterForm.css'
 
 function LetterForm({ onAdd }) {
     const [text, setText] = useState("");
@@ -14,7 +13,7 @@ function LetterForm({ onAdd }) {
 
     return (
         <form onSubmit={handleSubmit}>
-            <img 
+            <input 
               type="text"
               placeholder="Viết letter..."
               value={text}

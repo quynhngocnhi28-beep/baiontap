@@ -2,9 +2,9 @@ import { useEffect, useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import LetterForm from './LetterForm'
-import LetterList from './LetterList'
-
+import LetterForm from './components/LetterForm'
+import LetterList from './components/LetterList'
+import LetterItem from './components/LetterItem'
 function App() {
   const [letters, setLetters] = useState([]);
 
@@ -16,22 +16,23 @@ function App() {
     console.log("Letters updated:", letters);
   }, [letters]);
 
-  const addLetter = (conteent) => {
-    setLetters([
-      ...letters,
-      {
-        id: Data.now(),
-        content,
-      },
-    ]);
-  };
+  const addLetter = (content) => {
+  setLetters([
+    ...letters,
+    {
+      id: Date.now(),
+      content,
+    },
+  ]);
+};
+
 
   return (
     <div>
       <LetterForm onAdd={addLetter} />
       <LetterList letters={letters} />
     </div>
-  )
-}
+  );
+};
 
 export default App;

@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import './LetterItem.css'
 
 function LetterItem({ letter }) {
     useEffect(() => {
