@@ -1,51 +1,51 @@
 [
     { 
         "id": 1, 
-        "name": "Nhập hàng" 
+        "name": "Thực phẩm tươi sống" 
     },
 
     { 
         "id": 2, 
-        "name": "Quản lý sản phẩm" 
+        "name": "Thực phẩm đông lạnh" 
     },
 
     { 
         "id": 3, 
-        "name": "Danh mục sản phẩm" 
+        "name": "Thực phẩm khô" 
     },
 
     { 
         "id": 4, 
-        "name": "Quản lý đơn hàng" 
+        "name": "Đồ uống" 
     },
 
     { 
         "id": 5, 
-        "name": "Quản lý nhà cung cấp" 
+        "name": "Đồ dùng gia đình" 
     },
     
     { 
         "id": 6, 
-        "name": "Quản lý kho" 
+        "name": "Mỹ phẩm & Chăm sóc cá nhân" 
     },
     
     { 
         "id": 7, 
-        "name": "Khuyến mãi & giảm giá" 
+        "name": "Chất tẩy rửa & Vệ sinh nhà cửa" 
     },
 
     { 
         "id": 8, 
-        "name": "Báo cáo & thống kê" 
+        "name": "Đồ ăn vặt & Ăn nhẹ" 
     },
 
     { 
         "id": 9,
-        "name": "Quản lý nhân viên" 
+        "name": "Đồ dùng cho Mẹ & Bé" 
     },
 
     { 
         "id": 10, 
-        "name": "Quản lý khách hàng"
+        "name": "Văn phòng phẩm & Tiện ích"
     }
 ]
