@@ -11,7 +11,7 @@
   {
     "id": 2,
     "invoice_id": 1002,
-    "product_id": 3,
+    "product_id": 2,
     "product_name": "Quần jean",
     "quantity": 1,
     "price": 350000,
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "invoice_id": 1003,
-    "product_id": 2,
+    "product_id": 3,
     "product_name": "Áo khoác",
     "quantity": 1,
     "price": 500000,
