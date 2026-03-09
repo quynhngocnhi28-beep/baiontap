@@ -1,0 +1,51 @@
+[
+    { 
+        "id": 1, 
+        "name": "Nhập hàng" 
+    },
+
+    { 
+        "id": 2, 
+        "name": "Quản lý sản phẩm" 
+    },
+
+    { 
+        "id": 3, 
+        "name": "Danh mục sản phẩm" 
+    },
+
+    { 
+        "id": 4, 
+        "name": "Quản lý đơn hàng" 
+    },
+
+    { 
+        "id": 5, 
+        "name": "Quản lý khách hàng"
+    },
+
+    { 
+        "id": 6, 
+        "name": "Quản lý nhà cung cấp" 
+    },
+    
+    { 
+        "id": 7, 
+        "name": "Quản lý kho" 
+    },
+    
+    { 
+        "id": 8, 
+        "name": "Khuyến mãi & giảm giá" 
+    },
+
+    { 
+        "id": 9, 
+        "name": "Báo cáo & thống kê" 
+    },
+
+    { 
+        "id": 10,
+        "name": "Quản lý nhân viên" 
+    }
+]
