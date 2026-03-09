@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "invoice_id": 1001,
+    "invoice_id": 1002,
     "product_id": 3,
     "product_name": "Quần jean",
     "quantity": 1,
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "invoice_id": 1002,
+    "invoice_id": 1003,
     "product_id": 2,
     "product_name": "Áo khoác",
     "quantity": 1,
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "invoice_id": 1003,
+    "invoice_id": 1004,
     "product_id": 4,
     "product_name": "Giày thể thao",
     "quantity": 1,
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "invoice_id": 1003,
+    "invoice_id": 1005,
     "product_id": 5,
     "product_name": "Nón lưỡi trai",
     "quantity": 2,
