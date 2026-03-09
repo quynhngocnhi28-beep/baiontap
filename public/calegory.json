@@ -21,31 +21,31 @@
 
     { 
         "id": 5, 
-        "name": "Quản lý khách hàng"
-    },
-
-    { 
-        "id": 6, 
         "name": "Quản lý nhà cung cấp" 
     },
     
     { 
-        "id": 7, 
+        "id": 6, 
         "name": "Quản lý kho" 
     },
     
     { 
-        "id": 8, 
+        "id": 7, 
         "name": "Khuyến mãi & giảm giá" 
     },
 
     { 
-        "id": 9, 
+        "id": 8, 
         "name": "Báo cáo & thống kê" 
     },
 
     { 
-        "id": 10,
+        "id": 9,
         "name": "Quản lý nhân viên" 
+    },
+
+    { 
+        "id": 10, 
+        "name": "Quản lý khách hàng"
     }
 ]
