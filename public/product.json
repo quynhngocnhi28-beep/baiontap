@@ -1,61 +1,610 @@
 [
-    { 
+    {
         "id": 1, 
-        "name": "Nhập hàng", 
-        "id category": 1
+        "name": "Điện thoại", 
+        "id category": 1 
     },
-
-    { 
+        
+    {
         "id": 2, 
-        "name": "Quản lý sản phẩm", 
-        "id category": 2
+        "name": "Laptop", 
+        "id category": 2 
     },
-
-    { 
+        
+    {
         "id": 3, 
-        "name": "Danh mục sản phẩm", 
-        "id category": 3
+        "name": "Máy tính bảng", 
+        "id category": 3 
     },
-
-    { 
+        
+    {
         "id": 4, 
-        "name": "Quản lý đơn hàng", 
-        "id category": 4
+        "name": "Phụ kiện điện thoại", 
+        "id category": 4 
     },
-
-    { 
+        
+    {
         "id": 5, 
-        "name": "Quản lý khách hàng,",
-        "id category": 5
+        "name": "Tai nghe", 
+        "id category": 5 
     },
-
-    { 
+        
+    {
         "id": 6, 
-        "name": "Quản lý nhà cung cấp", 
-        "id category": 6
+        "name": "Loa bluetooth", 
+        "id category": 6 
     },
-    
-    { 
+        
+    {
         "id": 7, 
-        "name": "Quản lý kho", 
-        "id category": 7
+        "name": "Sạc dự phòng", 
+        "id category": 7 
     },
-    
-    { 
+        
+    {
         "id": 8, 
-        "name": "Khuyến mãi & giảm giá", 
-        "id category": 8
+        "name": "Cáp sạc", 
+        "id category": 8 
     },
-
-    { 
+        
+    {
         "id": 9, 
-        "name": "Báo cáo & thống kê", 
-        "id category": 9
+        "name": "Ốp lưng điện thoại", 
+        "id category": 9 
     },
-
-    { 
+        
+    {
         "id": 10,
-        "name": "Quản lý nhân viên", 
-        "id category": 10
+        "name": "Dán màn hình", 
+        "id category": 10 
+    },
+        
+
+    {
+        "id": 11,
+        "name": "Máy ảnh", 
+        "id category": 11 
+    },
+        
+    {
+        "id": 12,
+        "name": "Camera an ninh", 
+        "id category": 12 
+    },
+        
+    {
+        "id": 13,
+        "name": "Thiết bị mạng", 
+        "id category": 13 
+    },
+        
+    {
+        "id": 14,
+        "name": "Router wifi", 
+        "id category": 14 
+    },
+        
+    {
+        "id": 15,
+        "name": "Ổ cứng", 
+        "id category": 15 
+    },
+        
+    {
+        "id": 16,
+        "name": "USB", 
+        "id category": 16 
+    },
+        
+    {
+        "id": 17,
+        "name": "Thẻ nhớ", 
+        "id category": 17 
+    },
+        
+    {
+        "id": 18,
+        "name": "Bàn phím máy tính", 
+        "id category": 18 
+    },
+        
+    {
+        "id": 19,
+        "name": "Chuột máy tính", 
+        "id category": 19 
+    },
+        
+    {
+        "id": 20,
+        "name": "Màn hình máy tính", 
+        "id category": 20 
+    },
+        
+
+    {
+        "id": 21,
+        "name": "Linh kiện máy tính", 
+        "id category": 21 
+    },
+        
+    {
+        "id": 22,
+        "name": "Card đồ họa", 
+        "id category": 22 
+    },
+        
+    {
+        "id": 23,
+        "name": "RAM máy tính", 
+        "id category": 23 
+    },
+        
+    {
+        "id": 24,
+        "name": "Mainboard", 
+        "id category": 24 
+    },
+        
+    {
+        "id": 25,
+        "name": "Nguồn máy tính", 
+        "id category": 25 
+    },
+        
+    {
+        "id": 26,
+        "name": "Tản nhiệt CPU", 
+        "id category": 26 
+    },
+        
+    {
+        "id": 27,
+        "name": "Case máy tính", 
+        "id category": 27 
+    },
+        
+    {
+        "id": 28,
+        "name": "Ghế gaming", 
+        "id category": 28 
+    },
+        
+    {
+        "id": 29,
+        "name": "Bàn gaming", 
+        "id category": 29 
+    },
+        
+    {
+        "id": 30,
+        "name": "Thiết bị livestream", 
+        "id category": 30 
+    },
+        
+
+    {
+        "id": 31,
+        "name": "Tivi", 
+        "id category": 31 
+    },
+        
+    {
+        "id": 32,
+        "name": "Smart TV Box", 
+        "id category": 32 
+    },
+        
+    {
+        "id": 33,
+        "name": "Máy chiếu", 
+        "id category": 33 
+    },
+        
+    {
+        "id": 34,
+        "name": "Điều hòa", 
+        "id category": 34 
+    },
+        
+    {
+        "id": 35,
+        "name": "Quạt điện", 
+        "id category": 35 
+    },
+        
+    {
+        "id": 36,
+        "name": "Tủ lạnh", 
+        "id category": 36 
+    },
+        
+    {
+        "id": 37,
+        "name": "Máy giặt", 
+        "id category": 37 
+    },
+        
+    {
+        "id": 38,
+        "name": "Máy sấy quần áo", 
+        "id category": 38 
+    },
+        
+    {
+        "id": 39,
+        "name": "Máy lọc không khí", 
+        "id category": 39 
+    },
+        
+    {
+        "id": 40,
+        "name": "Máy hút bụi", 
+        "id category": 40 
+    },
+        
+
+    {
+        "id": 41,
+        "name": "Nồi cơm điện", 
+        "id category": 41 
+    },
+        
+    {
+        "id": 42,
+        "name": "Bếp điện", 
+        "id category": 42 
+    },
+        
+    {
+        "id": 43,
+        "name": "Lò vi sóng", 
+        "id category": 43 
+    },
+        
+    {
+        "id": 44,
+        "name": "Lò nướng", 
+        "id category": 44 
+    },
+        
+    {
+        "id": 45,
+        "name": "Máy xay sinh tố", 
+        "id category": 45 
+    },
+        
+    {
+        "id": 46,
+        "name": "Máy ép trái cây", 
+        "id category": 46 
+    },
+        
+    {
+        "id": 47,
+        "name": "Ấm siêu tốc", 
+        "id category": 47 
+    },
+        
+    {
+        "id": 48,
+        "name": "Máy pha cà phê", 
+        "id category": 48 
+    },
+        
+    {
+        "id": 49,
+        "name": "Nồi chiên không dầu", 
+        "id category": 49 
+    },
+        
+    {
+        "id": 50,
+        "name": "Bình giữ nhiệt", 
+        "id category": 50 
+    },
+        
+
+    {
+        "id": 51,
+        "name": "Quần áo nam", 
+        "id category": 51 
+    },
+        
+    {
+        "id": 52,
+        "name": "Quần áo nữ", 
+        "id category": 52 
+    },
+        
+    {
+        "id": 53,
+        "name": "Quần áo trẻ em", 
+        "id category": 53 
+    },
+        
+    {
+        "id": 54,
+        "name": "Giày nam", 
+        "id category": 54 
+    },
+        
+    {
+        "id": 55,
+        "name": "Giày nữ", 
+        "id category": 55 
+    },
+        
+    {
+        "id": 56,
+        "name": "Giày thể thao", 
+        "id category": 56 
+    },
+        
+    {
+        "id": 57,
+        "name": "Dép", 
+        "id category": 57 
+    },
+        
+    {
+        "id": 58,
+        "name": "Túi xách", 
+        "id category": 58 
+    },
+        
+    {
+        "id": 59,
+        "name": "Balo", 
+        "id category": 59 
+    },
+        
+    {
+        "id": 60,
+        "name": "Ví da", 
+        "id category": 60 
+    },
+        
+
+    {
+        "id": 61,
+        "name": "Đồng hồ", 
+        "id category": 61 
+    },
+        
+    {
+        "id": 62,
+        "name": "Kính mắt", 
+        "id category": 62 
+    },
+        
+    {
+        "id": 63,
+        "name": "Trang sức", 
+        "id category": 63 
+    },
+        
+    {
+        "id": 64,
+        "name": "Mỹ phẩm", 
+        "id category": 64 
+    },
+        
+    {
+        "id": 65,
+        "name": "Nước hoa", 
+        "id category": 65 
+    },
+        
+    {
+        "id": 66,
+        "name": "Chăm sóc da", 
+        "id category": 66 
+    },
+        
+    {
+        "id": 67,
+        "name": "Chăm sóc tóc", 
+        "id category": 67 
+    },
+        
+    {
+        "id": 68,
+        "name": "Dụng cụ trang điểm", 
+        "id category": 68 
+    },
+        
+    {
+        "id": 69,
+        "name": "Sản phẩm spa", 
+        "id category": 69 
+    },
+        
+    {
+        "id": 70,
+        "name": "Thực phẩm chức năng", 
+        "id category": 70 
+    },
+        
+
+    {
+        "id": 71,
+        "name": "Đồ uống", 
+        "id category": 71 
+    },
+        
+    {
+        "id": 72,
+        "name": "Nước ngọt", 
+        "id category": 72 
+    },
+        
+    {
+        "id": 73,
+        "name": "Cà phê", 
+        "id category": 73 
+    },
+        
+    {
+        "id": 74,
+        "name": "Trà", 
+        "id category": 74 
+    },
+        
+    {
+        "id": 75,
+        "name": "Bánh kẹo", 
+        "id category": 75 
+    },
+        
+    {
+        "id": 76,
+        "name": "Snack", 
+        "id category": 76 
+    },
+        
+    {
+        "id": 77,
+        "name": "Thực phẩm đóng hộp", 
+        "id category": 77 
+    },
+        
+    {
+        "id": 78,
+        "name": "Gia vị nấu ăn", 
+        "id category": 78 
+    },
+        
+    {
+        "id": 79,
+        "name": "Thực phẩm đông lạnh", 
+        "id category": 79 
+    },
+        
+    {
+        "id": 80,
+        "name": "Đồ ăn nhanh", 
+        "id category": 80 
+    },
+        
+
+    {
+        "id": 81,
+        "name": "Đồ gia dụng", 
+        "id category": 81 
+    },
+        
+    {
+        "id": 82,
+        "name": "Dụng cụ nhà bếp", 
+        "id category": 82 
+    },
+        
+    {
+        "id": 83,
+        "name": "Đồ dùng phòng tắm", 
+        "id category": 83 
+    },
+        
+    {
+        "id": 84,
+        "name": "Đồ trang trí nhà cửa", 
+        "id category": 84 
+    },
+        
+    {
+        "id": 85,
+        "name": "Đèn trang trí", 
+        "id category": 85 
+    },
+        
+    {
+        "id": 86,
+        "name": "Chăn ga gối nệm", 
+        "id category": 86 
+    },
+        
+    {
+        "id": 87,
+        "name": "Văn phòng phẩm", 
+        "id category": 87 
+    },
+        
+    {
+        "id": 88,
+        "name": "Sách", 
+        "id category": 88 
+    },
+        
+    {
+        "id": 89,
+        "name": "Đồ chơi trẻ em", 
+        "id category": 89 
+    },
+        
+    {
+        "id": 90,
+        "name": "Dụng cụ học tập", 
+        "id category": 90 
+    },
+        
+
+    {
+        "id": 91,
+        "name": "Thiết bị thể thao", 
+        "id category": 91 
+    },
+        
+    {
+        "id": 92,
+        "name": "Dụng cụ gym", 
+        "id category": 92 
+    },
+        
+    {
+        "id": 93,
+        "name": "Xe đạp", 
+        "id category": 93 
+    },
+        
+    {
+        "id": 94,
+        "name": "Phụ kiện xe đạp", 
+        "id category": 94 
+    },
+        
+    {
+        "id": 95,
+        "name": "Đồ du lịch", 
+        "id category": 95 
+    },
+        
+    {
+        "id": 96,
+        "name": "Vali", 
+        "id category": 96 
+    },
+        
+    {
+        "id": 97,
+        "name": "Lều cắm trại", 
+        "id category": 97 
+    },
+        
+    {
+        "id": 98,
+        "name": "Đồ câu cá", 
+        "id category": 98 
+    },
+        
+    {
+        "id": 99,
+        "name": "Thức ăn thú cưng", 
+        "id category": 99 
+    },
+        
+    {
+        "id": 100, 
+        "name": "Phụ kiện thú cưng", 
+        "id category": 100 
     }
 ]
