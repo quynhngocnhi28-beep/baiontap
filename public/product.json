@@ -1,610 +1,809 @@
 [
     {
-        "id": 1, 
-        "name": "Điện thoại", 
-        "id category": 1 
+        "id":1,
+        "name":"Thịt bò tươi",
+        "price":250000,
+        "categoryId":1,
+        "stock":50
     },
-        
+    
     {
-        "id": 2, 
-        "name": "Laptop", 
-        "id category": 2 
+        "id":2,
+        "name":"Thịt heo ba rọi",
+        "price":180000,
+        "categoryId":1,
+        "stock":60
     },
-        
+    
     {
-        "id": 3, 
-        "name": "Máy tính bảng", 
-        "id category": 3 
+        "id":3,
+        "name":"Thịt gà ta",
+        "price":150000,
+        "categoryId":1,
+        "stock":70
     },
-        
+    
     {
-        "id": 4, 
-        "name": "Phụ kiện điện thoại", 
-        "id category": 4 
+        "id":4,
+        "name":"Cá basa tươi",
+        "price":90000,
+        "categoryId":1,
+        "stock":80
     },
-        
+    
     {
-        "id": 5, 
-        "name": "Tai nghe", 
-        "id category": 5 
+        "id":5,
+        "name":"Tôm sú sống",
+        "price":320000,
+        "categoryId":1,
+        "stock":40
     },
-        
+    
     {
-        "id": 6, 
-        "name": "Loa bluetooth", 
-        "id category": 6 
+        "id":6,
+        "name":"Cua biển",
+        "price":400000,
+        "categoryId":1,
+        "stock":30
     },
-        
+    
     {
-        "id": 7, 
-        "name": "Sạc dự phòng", 
-        "id category": 7 
+        "id":7,
+        "name":"Trứng gà ta",
+        "price":35000,
+        "categoryId":1,
+        "stock":120
     },
-        
+    
     {
-        "id": 8, 
-        "name": "Cáp sạc", 
-        "id category": 8 
+        "id":8,
+        "name":"Rau cải xanh",
+        "price":12000,
+        "categoryId":1,
+        "stock":200
     },
-        
+    
     {
-        "id": 9, 
-        "name": "Ốp lưng điện thoại", 
-        "id category": 9 
+        "id":9,
+        "name":"Cà chua",
+        "price":18000,
+        "categoryId":1,
+        "stock":150
     },
-        
+    
     {
-        "id": 10,
-        "name": "Dán màn hình", 
-        "id category": 10 
+        "id":10,
+        "name":"Khoai tây",
+        "price":20000,
+        "categoryId":1,
+        "stock":140
     },
-        
+    
 
     {
-        "id": 11,
-        "name": "Máy ảnh", 
-        "id category": 11 
+        "id":11,
+        "name":"Cá hồi đông lạnh",
+        "price":280000,
+        "categoryId":2,
+        "stock":40
     },
-        
+    
     {
-        "id": 12,
-        "name": "Camera an ninh", 
-        "id category": 12 
+        "id":12,
+        "name":"Bò viên đông lạnh",
+        "price":90000,
+        "categoryId":2,
+        "stock":80
     },
-        
+    
     {
-        "id": 13,
-        "name": "Thiết bị mạng", 
-        "id category": 13 
+        "id":13,
+        "name":"Gà nugget",
+        "price":75000,
+        "categoryId":2,
+        "stock":90
     },
-        
+    
     {
-        "id": 14,
-        "name": "Router wifi", 
-        "id category": 14 
+        "id":14,
+        "name":"Khoai tây chiên đông lạnh",
+        "price":65000,
+        "categoryId":2,
+        "stock":100
     },
-        
+    
     {
-        "id": 15,
-        "name": "Ổ cứng", 
-        "id category": 15 
+        "id":15,
+        "name":"Há cảo đông lạnh",
+        "price":70000,
+        "categoryId":2,
+        "stock":70
     },
-        
+    
     {
-        "id": 16,
-        "name": "USB", 
-        "id category": 16 
+        "id":16,
+        "name":"Xúc xích Đức đông lạnh",
+        "price":95000,
+        "categoryId":2,
+        "stock":60
     },
-        
+    
     {
-        "id": 17,
-        "name": "Thẻ nhớ", 
-        "id category": 17 
+        "id":17,
+        "name":"Bánh bao đông lạnh",
+        "price":55000,
+        "categoryId":2,
+        "stock":110
     },
-        
+    
     {
-        "id": 18,
-        "name": "Bàn phím máy tính", 
-        "id category": 18 
+        "id":18,
+        "name":"Chả giò đông lạnh",
+        "price":85000,
+        "categoryId":2,
+        "stock":90
     },
-        
+    
     {
-        "id": 19,
-        "name": "Chuột máy tính", 
-        "id category": 19 
+        "id":19,
+        "name":"Mực đông lạnh",
+        "price":220000,
+        "categoryId":2,
+        "stock":50
     },
-        
+    
     {
-        "id": 20,
-        "name": "Màn hình máy tính", 
-        "id category": 20 
+        "id":20,
+        "name":"Tôm đông lạnh",
+        "price":240000,
+        "categoryId":2,
+        "stock":50
     },
-        
+    
 
     {
-        "id": 21,
-        "name": "Linh kiện máy tính", 
-        "id category": 21 
+        "id":21,
+        "name":"Gạo ST25",
+        "price":30000,
+        "categoryId":3,
+        "stock":200
     },
-        
+    
     {
-        "id": 22,
-        "name": "Card đồ họa", 
-        "id category": 22 
+        "id":22,
+        "name":"Mì gói Hảo Hảo",
+        "price":4000,
+        "categoryId":3,
+        "stock":500
     },
-        
+    
     {
-        "id": 23,
-        "name": "RAM máy tính", 
-        "id category": 23 
+        "id":23,
+        "name":"Miến dong",
+        "price":45000,
+        "categoryId":3,
+        "stock":120
     },
-        
+    
     {
-        "id": 24,
-        "name": "Mainboard", 
-        "id category": 24 
+        "id":24,
+        "name":"Bún khô",
+        "price":30000,
+        "categoryId":3,
+        "stock":130
     },
-        
+    
     {
-        "id": 25,
-        "name": "Nguồn máy tính", 
-        "id category": 25 
+        "id":25,
+        "name":"Đậu xanh",
+        "price":35000,
+        "categoryId":3,
+        "stock":140
     },
-        
+    
     {
-        "id": 26,
-        "name": "Tản nhiệt CPU", 
-        "id category": 26 
+        "id":26,
+        "name":"Đậu đỏ",
+        "price":36000,
+        "categoryId":3,
+        "stock":140
     },
-        
+    
     {
-        "id": 27,
-        "name": "Case máy tính", 
-        "id category": 27 
+        "id":27,
+        "name":"Đậu đen",
+        "price":32000,
+        "categoryId":3,
+        "stock":150
     },
-        
+    
     {
-        "id": 28,
-        "name": "Ghế gaming", 
-        "id category": 28 
+        "id":28,
+        "name":"Nấm hương khô",
+        "price":90000,
+        "categoryId":3,
+        "stock":80
     },
-        
+    
     {
-        "id": 29,
-        "name": "Bàn gaming", 
-        "id category": 29 
+        "id":29,
+        "name":"Mộc nhĩ khô",
+        "price":75000,
+        "categoryId":3,
+        "stock":70
     },
-        
+    
     {
-        "id": 30,
-        "name": "Thiết bị livestream", 
-        "id category": 30 
+        "id":30,
+        "name":"Tôm khô",
+        "price":180000,
+        "categoryId":3,
+        "stock":60
     },
-        
+    
 
     {
-        "id": 31,
-        "name": "Tivi", 
-        "id category": 31 
+        "id":31,
+        "name":"Coca Cola lon",
+        "price":12000,
+        "categoryId":4,
+        "stock":300
     },
-        
+    
     {
-        "id": 32,
-        "name": "Smart TV Box", 
-        "id category": 32 
+        "id":32,
+        "name":"Pepsi lon",
+        "price":11000,
+        "categoryId":4,
+        "stock":300
     },
-        
+    
     {
-        "id": 33,
-        "name": "Máy chiếu", 
-        "id category": 33 
+        "id":33,
+        "name":"7Up lon",
+        "price":11000,
+        "categoryId":4,
+        "stock":280
     },
-        
+    
     {
-        "id": 34,
-        "name": "Điều hòa", 
-        "id category": 34 
+        "id":34,
+        "name":"Trà xanh C2",
+        "price":10000,
+        "categoryId":4,
+        "stock":260
     },
-        
+    
     {
-        "id": 35,
-        "name": "Quạt điện", 
-        "id category": 35 
+        "id":35,
+        "name":"Nước suối Lavie",
+        "price":7000,
+        "categoryId":4,
+        "stock":400
     },
-        
+    
     {
-        "id": 36,
-        "name": "Tủ lạnh", 
-        "id category": 36 
+        "id":36,
+        "name":"Sting dâu",
+        "price":10000,
+        "categoryId":4,
+        "stock":250
     },
-        
+    
     {
-        "id": 37,
-        "name": "Máy giặt", 
-        "id category": 37 
+        "id":37,
+        "name":"Bò húc Redbull",
+        "price":15000,
+        "categoryId":4,
+        "stock":200
     },
-        
+    
     {
-        "id": 38,
-        "name": "Máy sấy quần áo", 
-        "id category": 38 
+        "id":38,
+        "name":"Nước cam ép",
+        "price":20000,
+        "categoryId":4,
+        "stock":150
     },
-        
+    
     {
-        "id": 39,
-        "name": "Máy lọc không khí", 
-        "id category": 39 
+        "id":39,
+        "name":"Sữa tươi Vinamilk",
+        "price":32000,
+        "categoryId":4,
+        "stock":180
     },
-        
+    
     {
-        "id": 40,
-        "name": "Máy hút bụi", 
-        "id category": 40 
+        "id":40,
+        "name":"Sữa đậu nành",
+        "price":9000,
+        "categoryId":4,
+        "stock":210
     },
-        
+    
 
     {
-        "id": 41,
-        "name": "Nồi cơm điện", 
-        "id category": 41 
+        "id":41,
+        "name":"Nồi cơm điện",
+        "price":650000,
+        "categoryId":5,
+        "stock":40
     },
-        
+    
     {
-        "id": 42,
-        "name": "Bếp điện", 
-        "id category": 42 
+        "id":42,
+        "name":"Chảo chống dính",
+        "price":250000,
+        "categoryId":5,
+        "stock":70
     },
-        
+    
     {
-        "id": 43,
-        "name": "Lò vi sóng", 
-        "id category": 43 
+        "id":43,
+        "name":"Nồi inox",
+        "price":320000,
+        "categoryId":5,
+        "stock":60
     },
-        
+    
     {
-        "id": 44,
-        "name": "Lò nướng", 
-        "id category": 44 
+        "id":44,
+        "name":"Ấm siêu tốc",
+        "price":280000,
+        "categoryId":5,
+        "stock":50
     },
-        
+    
     {
-        "id": 45,
-        "name": "Máy xay sinh tố", 
-        "id category": 45 
+        "id":45,
+        "name":"Ly thủy tinh",
+        "price":40000,
+        "categoryId":5,
+        "stock":120
     },
-        
+    
     {
-        "id": 46,
-        "name": "Máy ép trái cây", 
-        "id category": 46 
+        "id":46,
+        "name":"Bộ chén sứ",
+        "price":150000,
+        "categoryId":5,
+        "stock":80
     },
-        
+    
     {
-        "id": 47,
-        "name": "Ấm siêu tốc", 
-        "id category": 47 
+        "id":47,
+        "name":"Muỗng inox",
+        "price":20000,
+        "categoryId":5,
+        "stock":200
     },
-        
+    
     {
-        "id": 48,
-        "name": "Máy pha cà phê", 
-        "id category": 48 
+        "id":48,
+        "name":"Dao nhà bếp",
+        "price":90000,
+        "categoryId":5,
+        "stock":100
     },
-        
+    
     {
-        "id": 49,
-        "name": "Nồi chiên không dầu", 
-        "id category": 49 
+        "id":49,
+        "name":"Thớt nhựa",
+        "price":60000,
+        "categoryId":5,
+        "stock":120
     },
-        
+    
     {
-        "id": 50,
-        "name": "Bình giữ nhiệt", 
-        "id category": 50 
+        "id":50,
+        "name":"Hộp đựng thực phẩm",
+        "price":50000,
+        "categoryId":5,
+        "stock":140
     },
-        
+    
 
     {
-        "id": 51,
-        "name": "Quần áo nam", 
-        "id category": 51 
+        "id":51,
+        "name":"Sữa rửa mặt",
+        "price":90000,
+        "categoryId":6,
+        "stock":120
     },
-        
+    
     {
-        "id": 52,
-        "name": "Quần áo nữ", 
-        "id category": 52 
+        "id":52,
+        "name":"Kem dưỡng da",
+        "price":180000,
+        "categoryId":6,
+        "stock":90
     },
-        
+    
     {
-        "id": 53,
-        "name": "Quần áo trẻ em", 
-        "id category": 53 
+        "id":53,
+        "name":"Kem chống nắng",
+        "price":220000,
+        "categoryId":6,
+        "stock":80
     },
-        
+    
     {
-        "id": 54,
-        "name": "Giày nam", 
-        "id category": 54 
+        "id":54,
+        "name":"Son môi",
+        "price":150000,
+        "categoryId":6,
+        "stock":100
     },
-        
+    
     {
-        "id": 55,
-        "name": "Giày nữ", 
-        "id category": 55 
+        "id":55,
+        "name":"Nước tẩy trang",
+        "price":170000,
+        "categoryId":6,
+        "stock":90
     },
-        
+    
     {
-        "id": 56,
-        "name": "Giày thể thao", 
-        "id category": 56 
+        "id":56,
+        "name":"Dầu gội đầu",
+        "price":120000,
+        "categoryId":6,
+        "stock":110
     },
-        
+    
     {
-        "id": 57,
-        "name": "Dép", 
-        "id category": 57 
+        "id":57,
+        "name":"Dầu xả tóc",
+        "price":110000,
+        "categoryId":6,
+        "stock":100
     },
-        
+    
     {
-        "id": 58,
-        "name": "Túi xách", 
-        "id category": 58 
+        "id":58,
+        "name":"Sữa tắm",
+        "price":130000,
+        "categoryId":6,
+        "stock":100
     },
-        
+    
     {
-        "id": 59,
-        "name": "Balo", 
-        "id category": 59 
+        "id":59,
+        "name":"Lăn khử mùi",
+        "price":90000,
+        "categoryId":6,
+        "stock":120
     },
-        
+    
     {
-        "id": 60,
-        "name": "Ví da", 
-        "id category": 60 
+        "id":60,
+        "name":"Kem đánh răng",
+        "price":45000,
+        "categoryId":6,
+        "stock":200
     },
-        
+    
 
     {
-        "id": 61,
-        "name": "Đồng hồ", 
-        "id category": 61 
+        "id":61,
+        "name":"Nước lau sàn",
+        "price":85000,
+        "categoryId":7,
+        "stock":120
     },
-        
+    
     {
-        "id": 62,
-        "name": "Kính mắt", 
-        "id category": 62 
+        "id":62,
+        "name":"Nước rửa chén",
+        "price":45000,
+        "categoryId":7,
+        "stock":150
     },
-        
+    
     {
-        "id": 63,
-        "name": "Trang sức", 
-        "id category": 63 
+        "id":63,
+        "name":"Bột giặt OMO",
+        "price":150000,
+        "categoryId":7,
+        "stock":90
     },
-        
+    
     {
-        "id": 64,
-        "name": "Mỹ phẩm", 
-        "id category": 64 
+        "id":64,
+        "name":"Nước giặt Ariel",
+        "price":160000,
+        "categoryId":7,
+        "stock":90
     },
-        
+    
     {
-        "id": 65,
-        "name": "Nước hoa", 
-        "id category": 65 
+        "id":65,
+        "name":"Nước tẩy Javel",
+        "price":30000,
+        "categoryId":7,
+        "stock":120
     },
-        
+    
     {
-        "id": 66,
-        "name": "Chăm sóc da", 
-        "id category": 66 
+        "id":66,
+        "name":"Xịt lau kính",
+        "price":50000,
+        "categoryId":7,
+        "stock":110
     },
-        
+    
     {
-        "id": 67,
-        "name": "Chăm sóc tóc", 
-        "id category": 67 
+        "id":67,
+        "name":"Miếng rửa chén",
+        "price":10000,
+        "categoryId":7,
+        "stock":300
     },
-        
+    
     {
-        "id": 68,
-        "name": "Dụng cụ trang điểm", 
-        "id category": 68 
+        "id":68,
+        "name":"Bao rác",
+        "price":20000,
+        "categoryId":7,
+        "stock":250
     },
-        
+    
     {
-        "id": 69,
-        "name": "Sản phẩm spa", 
-        "id category": 69 
+        "id":69,
+        "name":"Khăn lau nhà",
+        "price":35000,
+        "categoryId":7,
+        "stock":150
     },
-        
+    
     {
-        "id": 70,
-        "name": "Thực phẩm chức năng", 
-        "id category": 70 
+        "id":70,
+        "name":"Nước tẩy bồn cầu",
+        "price":60000,
+        "categoryId":7,
+        "stock":100
     },
-        
+    
 
     {
-        "id": 71,
-        "name": "Đồ uống", 
-        "id category": 71 
+        "id":71,
+        "name":"Bánh Oreo",
+        "price":25000,
+        "categoryId":8,
+        "stock":150
     },
-        
+    
     {
-        "id": 72,
-        "name": "Nước ngọt", 
-        "id category": 72 
+        "id":72,
+        "name":"Snack khoai tây",
+        "price":20000,
+        "categoryId":8,
+        "stock":200
     },
-        
+    
     {
-        "id": 73,
-        "name": "Cà phê", 
-        "id category": 73 
+        "id":73,
+        "name":"Bánh Chocopie",
+        "price":35000,
+        "categoryId":8,
+        "stock":180
     },
-        
+    
     {
-        "id": 74,
-        "name": "Trà", 
-        "id category": 74 
+        "id":74,
+        "name":"Bánh quy bơ",
+        "price":45000,
+        "categoryId":8,
+        "stock":150
     },
-        
+    
     {
-        "id": 75,
-        "name": "Bánh kẹo", 
-        "id category": 75 
+        "id":75,
+        "name":"Kẹo dẻo",
+        "price":15000,
+        "categoryId":8,
+        "stock":220
     },
-        
+    
     {
-        "id": 76,
-        "name": "Snack", 
-        "id category": 76 
+        "id":76,
+        "name":"Kẹo socola",
+        "price":30000,
+        "categoryId":8,
+        "stock":170
     },
-        
+    
     {
-        "id": 77,
-        "name": "Thực phẩm đóng hộp", 
-        "id category": 77 
+        "id":77,
+        "name":"Hạt hướng dương",
+        "price":20000,
+        "categoryId":8,
+        "stock":190
     },
-        
+    
     {
-        "id": 78,
-        "name": "Gia vị nấu ăn", 
-        "id category": 78 
+        "id":78,
+        "name":"Hạt điều rang muối",
+        "price":120000,
+        "categoryId":8,
+        "stock":90
     },
-        
+    
     {
-        "id": 79,
-        "name": "Thực phẩm đông lạnh", 
-        "id category": 79 
+        "id":79,
+        "name":"Rong biển ăn liền",
+        "price":18000,
+        "categoryId":8,
+        "stock":210
     },
-        
+    
     {
-        "id": 80,
-        "name": "Đồ ăn nhanh", 
-        "id category": 80 
+        "id":80,
+        "name":"Bắp rang bơ",
+        "price":25000,
+        "categoryId":8,
+        "stock":160
     },
-        
+    
 
     {
-        "id": 81,
-        "name": "Đồ gia dụng", 
-        "id category": 81 
+        "id":81,
+        "name":"Tã em bé",
+        "price":320000,
+        "categoryId":9,
+        "stock":60
     },
-        
+    
     {
-        "id": 82,
-        "name": "Dụng cụ nhà bếp", 
-        "id category": 82 
+        "id":82,
+        "name":"Sữa bột trẻ em",
+        "price":450000,
+        "categoryId":9,
+        "stock":50
     },
-        
+    
     {
-        "id": 83,
-        "name": "Đồ dùng phòng tắm", 
-        "id category": 83 
+        "id":83,
+        "name":"Bình sữa",
+        "price":120000,
+        "categoryId":9,
+        "stock":80
     },
-        
+    
     {
-        "id": 84,
-        "name": "Đồ trang trí nhà cửa", 
-        "id category": 84 
+        "id":84,
+        "name":"Khăn ướt em bé",
+        "price":35000,
+        "categoryId":9,
+        "stock":200
     },
-        
+    
     {
-        "id": 85,
-        "name": "Đèn trang trí", 
-        "id category": 85 
+        "id":85,
+        "name":"Phấn rôm",
+        "price":45000,
+        "categoryId":9,
+        "stock":120
     },
-        
+    
     {
-        "id": 86,
-        "name": "Chăn ga gối nệm", 
-        "id category": 86 
+        "id":86,
+        "name":"Sữa tắm em bé",
+        "price":90000,
+        "categoryId":9,
+        "stock":100
     },
-        
+    
     {
-        "id": 87,
-        "name": "Văn phòng phẩm", 
-        "id category": 87 
+        "id":87,
+        "name":"Dầu gội em bé",
+        "price":85000,
+        "categoryId":9,
+        "stock":100
     },
-        
+    
     {
-        "id": 88,
-        "name": "Sách", 
-        "id category": 88 
+        "id":88,
+        "name":"Cháo ăn liền",
+        "price":25000,
+        "categoryId":9,
+        "stock":150
     },
-        
+    
     {
-        "id": 89,
-        "name": "Đồ chơi trẻ em", 
-        "id category": 89 
+        "id":89,
+        "name":"Bột ăn dặm",
+        "price":120000,
+        "categoryId":9,
+        "stock":80
     },
-        
+    
     {
-        "id": 90,
-        "name": "Dụng cụ học tập", 
-        "id category": 90 
+        "id":90,
+        "name":"Ty ngậm",
+        "price":30000,
+        "categoryId":9,
+        "stock":120
     },
-        
+    
 
     {
-        "id": 91,
-        "name": "Thiết bị thể thao", 
-        "id category": 91 
+        "id":91,
+        "name":"Bút bi Thiên Long",
+        "price":5000,
+        "categoryId":10
+        ,"stock":500
     },
-        
+    
     {
-        "id": 92,
-        "name": "Dụng cụ gym", 
-        "id category": 92 
+        "id":92,
+        "name":"Bút chì",
+        "price":4000,
+        "categoryId":10
+        ,"stock":400
     },
-        
+    
     {
-        "id": 93,
-        "name": "Xe đạp", 
-        "id category": 93 
+        "id":93,
+        "name":"Tẩy bút chì",
+        "price":3000,
+        "categoryId":10
+        ,"stock":350
     },
-        
+    
     {
-        "id": 94,
-        "name": "Phụ kiện xe đạp", 
-        "id category": 94 
+        "id":94,
+        "name":"Thước kẻ",
+        "price":6000,
+        "categoryId":10
+        ,"stock":300
     },
-        
+    
     {
-        "id": 95,
-        "name": "Đồ du lịch", 
-        "id category": 95 
+        "id":95,
+        "name":"Sổ tay",
+        "price":25000,
+        "categoryId":10
+        ,"stock":200
     },
-        
+    
     {
-        "id": 96,
-        "name": "Vali", 
-        "id category": 96 
+        "id":96,
+        "name":"Tập học sinh",
+        "price":8000,
+        "categoryId":10
+        ,"stock":350
     },
-        
+    
     {
-        "id": 97,
-        "name": "Lều cắm trại", 
-        "id category": 97 
+        "id":97,
+        "name":"Bìa hồ sơ",
+        "price":7000,
+        "categoryId":10
+        ,"stock":300
     },
-        
+    
     {
-        "id": 98,
-        "name": "Đồ câu cá", 
-        "id category": 98 
+        "id":98,
+        "name":"Kẹp giấy",
+        "price":10000,
+        "categoryId":10
+        ,"stock":250
     },
-        
+    
     {
-        "id": 99,
-        "name": "Thức ăn thú cưng", 
-        "id category": 99 
+        "id":99,
+        "name":"Băng keo",
+        "price":12000,
+        "categoryId":10
+        ,"stock":200
     },
-        
+    
     {
-        "id": 100, 
-        "name": "Phụ kiện thú cưng", 
-        "id category": 100 
-    }
+        "id":100,
+        "name":"Máy tính cầm tay",
+        "price":120000,
+        "categoryId":10
+        ,"stock":80}
 ]

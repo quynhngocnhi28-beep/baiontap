@@ -1,22 +1,14 @@
 [
   {
-    "id": "E001",
-    "name": "Lê Minh Hoàng",
-    "position": "Quản lý",
-    "phone": "0981234567",
-    "email": "hoang.le@shop.com",
-    "hire_date": "2024-05-10",
-    "salary": 15000000,
-    "status": "active"
+    "id": 1,
+    "name": "Phạm Quốc Bảo",
+    "position": "Thu ngân",
+    "phone": "0908888888"
   },
   {
-    "id": "E002",
-    "name": "Phạm Thị Lan",
-    "position": "Nhân viên bán hàng",
-    "phone": "0972345678",
-    "email": "lan.pham@shop.com",
-    "hire_date": "2025-01-15",
-    "salary": 9000000,
-    "status": "active"
+    "id": 2,
+    "name": "Đỗ Thị Mai",
+    "position": "Quản lý",
+    "phone": "0911111111"
   }
 ]

@@ -1,20 +1,20 @@
 [
   {
-    "id": "C001",
+    "id": 1,
     "name": "Nguyễn Văn An",
     "phone": "0901234567",
-    "email": "an.nguyen@gmail.com",
-    "address": "TP Hồ Chí Minh",
-    "created_at": "2025-10-10",
-    "total_spent": 3250000
+    "address": "Quận 1, TP.HCM"
   },
   {
-    "id": "C002",
+    "id": 2,
     "name": "Trần Thị Bình",
     "phone": "0912345678",
-    "email": "binh.tran@gmail.com",
-    "address": "Hà Nội",
-    "created_at": "2025-12-02",
-    "total_spent": 1200000
+    "address": "Quận 7, TP.HCM"
+  },
+  {
+    "id": 3,
+    "name": "Lê Minh Cường",
+    "phone": "0987654321",
+    "address": "Thủ Đức, TP.HCM"
   }
 ]
